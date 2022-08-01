@@ -111,6 +111,12 @@ main {
   cursor: pointer;
 }
 
+footer #balls {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+}
+
 footer p {
   font-size: 1.4rem;
   line-height: 2.8rem;
